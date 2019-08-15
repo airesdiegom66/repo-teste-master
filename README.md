@@ -1,2 +1,2 @@
-# repo-teste-master
-Criação de repositório - treinado github
+﻿# repo-teste-master
+Criação de repositório - treinando github
