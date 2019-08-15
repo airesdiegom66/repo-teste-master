@@ -1,0 +1,11 @@
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\bin\Debug\netcoreapp2.2\ConsoleAppTesteGit.deps.json
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\bin\Debug\netcoreapp2.2\ConsoleAppTesteGit.runtimeconfig.json
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\bin\Debug\netcoreapp2.2\ConsoleAppTesteGit.runtimeconfig.dev.json
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\bin\Debug\netcoreapp2.2\ConsoleAppTesteGit.dll
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\bin\Debug\netcoreapp2.2\ConsoleAppTesteGit.pdb
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.csprojAssemblyReference.cache
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.csproj.CoreCompileInputs.cache
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.AssemblyInfoInputs.cache
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.AssemblyInfo.cs
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.dll
+C:\Users\aires\source\repos\ConsoleAppTesteGit\ConsoleAppTesteGit\obj\Debug\netcoreapp2.2\ConsoleAppTesteGit.pdb
